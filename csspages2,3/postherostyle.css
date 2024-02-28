@@ -1,0 +1,37 @@
+.posthero{
+    height: 800px;
+    width: 1000px;
+    background-color: rgb(9, 243, 196);
+    max-width: 1200px;   
+}
+
+.text strong{
+    color:rgb(10, 155, 245);
+    font-size:x-large;
+    padding: 0px 5px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: aliceblue;
+    margin-left: 5px;
+}
+
+.photos{
+    padding-top: +10px;
+    padding-left: +90px;
+    position: center;
+
+}
+.photos a{
+    padding: 5px 5px;
+    color:white;
+    list-style: none;
+    text-decoration: none;
+    font-size:xx-large;
+    padding-left: +300px;
+}
+a:hover{
+    color: #0671eb;
+     
+}

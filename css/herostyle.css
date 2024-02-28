@@ -1,0 +1,24 @@
+.Herosection{
+    height: 500px;
+    width: 1000px;
+    background-color: rgb(9, 243, 196);
+    max-width: 1200px;   
+}
+
+.text strong{
+    color:rgb(10, 155, 245);
+    font-size:x-large;
+    padding: 0px 5px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: aliceblue;
+    margin-left: 5px;
+}
+
+.images{
+    padding-top: +8px;
+    padding-left: +65px;
+
+}

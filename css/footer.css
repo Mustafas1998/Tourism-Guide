@@ -1,0 +1,12 @@
+.Container{
+    background-color:cadetblue;
+    height:60px;
+    width: 1000px;
+    justify-content: center;
+    padding: 50px 30px;
+    flex-direction: column;
+
+
+}
+
+
